@@ -39,7 +39,7 @@ The project uses standard C++ 14 compiler and the source code should run on any 
   - `main.cpp`
   - `Makefile`
 
-## Directories
+## Data Directory
 
   - `macro_data`
     - Includes the spatio-temporal data on migration factors, as well as the Syrian flow data.
