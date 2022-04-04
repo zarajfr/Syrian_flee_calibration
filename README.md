@@ -1,7 +1,7 @@
 
 # Syrian_flee_calibration
 This repository implements the calibration of flee decisions in refugee displacement, using Syrian flee data. 
-This repository is complemented by other repositories Syrian_destination_calibration, Syrian_displacement_simulation and Visualising_Syrian_flow, for a thorough data-driven simulation of Syrian refugee flows.
+This repository is complemented by other repositories; Syrian_destination_calibration, Syrian_displacement_simulation and Visualising_Syrian_flow, for a thorough data-driven simulation of Syrian refugee flows.
 ***
 ## Authors
 
